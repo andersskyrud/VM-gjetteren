@@ -197,7 +197,7 @@ ui <- fluidPage(
       wellPanel(
         h4("Forutsetninger og antakelser"),
         p("Resultatene hviler på noen bevisste forenklinger som er verdt å ",
-          "være klar over:" 
+          "være klar over:",
           "(1) Mål trekkes for hvert lag fra en Poisson-fordeling – ",
           "antall mål ett lag scorer påvirker ikke det andre",
           "(2) Forventet mål i en jevn kamp (τ₀) settes av brukeren og ",
@@ -206,7 +206,7 @@ ui <- fluidPage(
           "(4) Målene utledes direkte fra FIFA-poeng. Med andre ord modelleres ikke ",
           "historiske kampdata, som kunne vært et alternativ, og måltalla har derfor ingen ",
           "statistisk usikkerhet – bare selve resultatet varierer fra kamp til ",
-          "kamp." 
+          "kamp.",
           "(5) Utregninga antar også at det skåres flere mål i ujevne kamper. Jo større ",
                "rankingforskjell mellom laga - jo flere mål og vice versa. ")
       )

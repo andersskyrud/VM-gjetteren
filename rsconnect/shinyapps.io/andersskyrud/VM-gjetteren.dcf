@@ -1,0 +1,13 @@
+name: VM-gjetteren
+title: VM-gjetteren
+username: andersskyrud
+account: andersskyrud
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17444040
+bundleId: 12061493
+url: https://andersskyrud.shinyapps.io/VM-gjetteren/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md
