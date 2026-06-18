@@ -5,7 +5,7 @@ account: andersskyrud
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 17444040
-bundleId: 12061493
+bundleId: 12144444
 url: https://andersskyrud.shinyapps.io/VM-gjetteren/
 version: 1
 asMultiple: FALSE
